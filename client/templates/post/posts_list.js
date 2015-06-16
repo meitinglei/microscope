@@ -10,6 +10,10 @@ var postsData = [
     {
         title: 'The Meteor Book',
         url: 'http://themeteorbook.com'
+    },
+    {
+        title: 'dota2shop',
+        url: 'http://www.dota2shop.cn'
     }
 ];
 Template.postsList.helpers({
